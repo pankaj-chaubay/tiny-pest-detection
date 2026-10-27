@@ -1,0 +1,6 @@
+torch>=2.5
+torchvision>=0.21
+pycocotools>=2.0.7
+numpy>=1.24
+matplotlib>=3.7
+pillow>=10.0
